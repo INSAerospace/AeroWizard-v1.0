@@ -1,0 +1,5 @@
+Vitesse de descente : 5.0
+Masse : 2.0
+Aire du parachute nécessaire : 6.074 m²
+Type de parachute : Circulaire
+Rayon : 1.3904726709577375
